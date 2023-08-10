@@ -11,3 +11,8 @@ def SayHello():
   else:
     print("Yaktocat did not reply. Try saying 'hello'")
 ```
+
+## Tasklist:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
